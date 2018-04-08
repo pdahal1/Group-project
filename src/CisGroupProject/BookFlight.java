@@ -1,5 +1,5 @@
 package CisGroupProject;
 
-public class Account {
+public class BookFlight {
 
 }
