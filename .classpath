@@ -2,6 +2,17 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/dahal/Desktop/mysql-connector-java-5.1.46-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dahal/Downloads/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/New folder/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/New folder/lib/deploy.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/New folder/lib/javaws.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/New folder/lib/jce.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/New folder/lib/jfr.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/New folder/lib/jfxswt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/New folder/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/New folder/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/New folder/lib/plugin.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/New folder/lib/resources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/New folder/lib/rt.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
