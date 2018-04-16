@@ -1,4 +1,4 @@
-package fx;
+package CisGroupProject;
 
 import javafx.application.*;
 import javafx.event.*;
