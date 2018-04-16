@@ -11,9 +11,9 @@ public class MainMenu {
 	public static Connection getConnection() throws Exception{
 		try {
 				String driver= "com.mysql.jdbc.Driver";
-				String url="jdbc:mysql:///lab 3";
-				String username = "";
-				String password ="";
+				String url="\"jdbc:mysql://localhost:3306/Demo\",\"root\",\"root\"";
+				String username = "root";
+				String password ="root";
 				Class.forName(driver);
 				Connection con= DriverManager.getConnection(url, username, password);
 				System.out.println("connectd.");
