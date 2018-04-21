@@ -1,7 +1,7 @@
 package CisGroupProject;
 import java.sql.*;
 public class BookFlight {
-	public static void main(String[]args){
+	public static void getFlightInfo(String[]args){
 		
 			try {
 				Connection myco = DriverManager.getConnection("jdbc:mysql://localhost:3306/new_schema?autoReconnect=true&useSSL=false", "root", "Meet1143");
